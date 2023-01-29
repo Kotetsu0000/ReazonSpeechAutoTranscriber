@@ -1,6 +1,6 @@
 # ReazonSpeechAutoTranscriber
 
-ReazonSpeech(Reazon Human Interaction Laboratory)を利用した自動文字起こしツールです。CUDAが使用できる場合はGPUでの動作も可能です。
+ReazonSpeech(Reazon Human Interaction Laboratory)を利用した自動文字起こしツールです。NVIDIA GPUの場合はGPUでの動作も可能です。
 
 GPU搭載PCの場合は6GB程度のメモリがあれば動作しますが、そうではない場合はクラッシュするかもしれません(いつか修正します)。
 
